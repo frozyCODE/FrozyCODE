@@ -1,17 +1,17 @@
 <div align="center">
 
 # Salut !
-### Étudiant Développeur | BTS SIO SLAM
+### Étudiant Développeur | BUT INFO Grenoble
 
 ---
 
 ## À propos de moi
 
-Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM  
-Passionné par le **développement web** et les **nouvelles technologies**  
+Actuellement en **BUT INFO**
+Passionné par le **développement** et les **nouvelles technologies**  
 En apprentissage constant pour améliorer mes compétences  
 Goal : Devenir **Développeur Full Stack**
-Je suis actuellement à la recherche d'une alternance pour un Bac+3
+Actuellement en alternance chez @KerciaSolutions
 
 ---
 
@@ -49,8 +49,6 @@ Je suis actuellement à la recherche d'une alternance pour un Bac+3
 ### 📧 Contact Professionnel
 
 **Email :** gabrieldasilvalogin@gmail.com 
-
-Ouvert aux opportunités de stage et d'alternance
 
 ---
 
